@@ -1,0 +1,5 @@
+amide CO NH
+amine CH2 NH
+imine N CH
+carboncarbon C C
+mixedbond CH N

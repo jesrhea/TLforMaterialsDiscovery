@@ -1,0 +1,6 @@
+bond_name,group1,group2
+amide,CO,NH
+amine,CH2,NH
+imine,N,CH
+carboncarbon,C,C
+mixedbond,CH,N
