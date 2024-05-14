@@ -1,4 +1,4 @@
-# Functions adatped from https://inria.github.io/scikit-learn-mooc/python_scripts/dev_features_importance.html
+# Functions adapted from https://inria.github.io/scikit-learn-mooc/python_scripts/dev_features_importance.html
 
 import matplotlib.pyplot as plt
 import numpy as np
