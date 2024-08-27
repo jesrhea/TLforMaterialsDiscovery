@@ -1,6 +1,6 @@
 # TLforMaterialsDiscovery
 
-This repository contains scripts written for the Master's project Exploring the Use of Transfer Learning for Property Prediction of Metal and Covalent Organic Frameworks. 
+This repository contains scripts written for the Master's project <i>Exploring the Use of Transfer Learning for Property Prediction of Metal and Covalent Organic Frameworks</i>. 
 
 ## COF Gas Adsorption 
 
