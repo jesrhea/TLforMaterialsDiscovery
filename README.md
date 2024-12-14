@@ -1,4 +1,4 @@
-# Transfer Learning forMaterialsDiscovery
+# Transfer Learning for Materials Discovery
 
 This repository contains scripts written for the Master's project <i>Exploring the Use of Transfer Learning for Property Prediction of Metal and Covalent Organic Frameworks</i>:
 
